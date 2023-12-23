@@ -1,0 +1,2 @@
+print("taha")
+print("kero")
